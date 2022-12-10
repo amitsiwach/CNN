@@ -1,2 +1,2 @@
-# CNN_basics_concepts
+# CNN
 This repository contains the basic concepts of Convolutional Neural Network.
